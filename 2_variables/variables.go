@@ -11,8 +11,12 @@ func main() {
 	// short hand
 	subject := "GoLang"
 
+	//float
+	price := 100.9
+
 	fmt.Println(name)
 	fmt.Println(isEligible)
 	fmt.Println(subject)
+	fmt.Println(price)
 
 }
